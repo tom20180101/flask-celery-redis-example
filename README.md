@@ -6,9 +6,7 @@ the example using flask celery redis and mysql
 
 1. git clone this repo
 2. pip install need packages
-3. run app.py
-     python app.py
-4. run worker
-    celery -A func.tasks worker -l info
+3. run python app.py
+4. run worker  celery -A func.tasks worker -l info
 
 
