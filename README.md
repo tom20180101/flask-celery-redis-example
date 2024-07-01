@@ -1,2 +1,14 @@
 # flask-celery-redis-example
-a simple example using flask celery and redis
+
+the example using flask celery redis and mysql
+
+# how to use
+
+1. git clone this repo
+2. pip install need packages
+3. run app.py
+     python app.py
+4. run worker
+    celery -A func.tasks worker -l info
+
+
