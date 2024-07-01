@@ -1,6 +1,6 @@
 # flask-celery-redis-example
 
-the example using flask celery redis and mysql
+the example using flask celery redis and mysql. other features will be added on this basis in the future
 
 # how to use
 
